@@ -4,3 +4,4 @@ GIT use cases practicing files
 
 Devops training started on 6th for  ING bank client.
 
+working in git with webhook
